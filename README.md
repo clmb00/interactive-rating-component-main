@@ -4,5 +4,5 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/solution-using-vuejs-Gr7bTzsYKs
+- Live Site URL: https://clmb00.github.io/interactive-rating-component-main/
