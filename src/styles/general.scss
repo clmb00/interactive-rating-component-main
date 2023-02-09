@@ -1,0 +1,20 @@
+
+@use './variables' as *;
+
+@import '/node_modules/@fontsource/overpass/400.css';
+@import '/node_modules/@fontsource/overpass/700.css';
+
+*,
+*::after,
+*::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Overpass', sans-serif;
+  font-size: $font_size;
+  background-color: $back;
+  color: $white;
+}
